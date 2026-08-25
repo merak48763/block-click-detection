@@ -1,0 +1,6 @@
+{
+  "type": "set_components",
+  "components": {
+    "block_transformer": "block_match:from_middle"
+  }
+}
