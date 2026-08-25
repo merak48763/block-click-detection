@@ -1,0 +1,14 @@
+[
+  {
+    "block_state_provider": {
+      "type": "rule_based_state_provider",
+      "rules": [],
+      "fallback": {
+        "type": "random_block_provider",
+        "blocks": []
+      }
+    },
+    "loot": "block_match:identifier",
+    "drop_strategy": "from_middle"
+  }
+]
